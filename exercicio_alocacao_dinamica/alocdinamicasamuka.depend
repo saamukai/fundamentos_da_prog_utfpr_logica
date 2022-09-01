@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654821158 source:e:\estudos\engenharia da computaÇÃo\fundamentos da programação\alocdin\alocdinamicasamuka\leitornumeros.c
+	<stdio.h>
+	<stdlib.h>
+	"leitorNumeros.h"
+
+1654821382 e:\estudos\engenharia da computaÇÃo\fundamentos da programação\alocdin\alocdinamicasamuka\leitornumeros.h
+
+1654821158 source:e:\estudos\engenharia da computaÇÃo\fundamentos da programação\alocdin\alocdinamicasamuka\main.c
+	<stdio.h>
+	<stdlib.h>
+	"leitorNumeros.h"
+
